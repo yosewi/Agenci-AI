@@ -1,1 +1,5 @@
-# Agenci-AI Mateusz Rabantek, Karol Wójcik, Julian Sowiński
+SimWall
+
+Wizja: [vision.md](docs/vision.md)
+
+# Autorzy Mateusz Rabantek, Karol Wójcik, Julian Sowiński
